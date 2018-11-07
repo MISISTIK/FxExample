@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: #000;
+    -fx-background-image: url("/sea.jpg");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFF;
+}
